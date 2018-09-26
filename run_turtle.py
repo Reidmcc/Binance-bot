@@ -1,4 +1,5 @@
 ##### Executer for the turtle_trade strategy, see turtle_trade.py for more
+##### I should really object-ify the coin cycles
 from turtle_trade import turtle
 
 
