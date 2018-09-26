@@ -22,7 +22,7 @@ Cross-pair arbitrage:
     The bot knows nothing about market status other than current price ratios; rapid price swings can easily leave you mid-cycle
     holding a bag you don't want. 
    
-   
+    
 Breakout trend trading:
   Files:
     turtle_trade.py
