@@ -5,8 +5,8 @@ client = BinanceAPI('[API key]','[API secret]')
 client.set_offset()
 import time
 from data_checks import Data_checks
-from Price_monitor import mon
-from Trades_simul import Trades
+from price_monitor import mon
+from mult_arbit import Trades
 from log import log_c
 
 
