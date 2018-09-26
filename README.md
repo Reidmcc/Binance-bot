@@ -3,7 +3,7 @@ Python bot for trading on the Binance cryptocurrency exchange.
 
 There are two strategies, cross-pair arbitrage and breakout trend trading. 
 
-Cross-pair arbitrage:
+Cross-pair arbitrage: /n
   Files: 
     mult_arbit.py
     price_monitor.py
