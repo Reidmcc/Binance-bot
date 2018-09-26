@@ -17,10 +17,10 @@ Cross-pair arbitrage:
       XLM->ETH->BTC->XLM
       XLM->BNB->ETH->XLM
    
-    WARNING: 
-      This strategy is super risky. It works best when all three pairs are trading sideways or trending gently.
-      The bot knows nothing about market status other than current price ratios; rapid price swings can easily leave you mid-cycle
-      holding a bag you don't want. 
+  WARNING: 
+    This strategy is super risky. It works best when all three pairs are trading sideways or trending gently.
+    The bot knows nothing about market status other than current price ratios; rapid price swings can easily leave you mid-cycle
+    holding a bag you don't want. 
    
    
 Breakout trend trading:
@@ -33,9 +33,9 @@ Breakout trend trading:
     is far too slow for cryptocurrency exchanges, so the bot is set to X hours, not days. Problem is that according to my testing
     it barely breaks even (or goes negative) on all breakout ranges I've tested.
 
-    WARNING:
-      As this strategy currently stands it does not profit. If you want to try it backtest it hard.
-   
+  WARNING:
+    As this strategy currently stands it does not profit. If you want to try it backtest it hard.
+
    
 Both strategies need these files:
   api.py
