@@ -12,7 +12,7 @@ There are two strategies, cross-pair arbitrage and breakout trend trading.
 
 ##### Status:
 
-The point is to turn altcoins into more altcoins. In optimal conditions a cycle can execute in seconds and be ready to go again. It only works in a very specific context:
+The point is to turn altcoins into more altcoins. In optimal conditions it can cycle multiple times a minute. It only works in a very specific context:
 - You have to be in a low-fee environment. Any fee above 0.1% kills it, it works on a 0.5% margin trigger over three trades.
 - The altcoin you're going for has to trade against two base coins that also trade against each other.
 
