@@ -7,7 +7,7 @@ There are two strategies, cross-pair arbitrage and breakout trend trading.
 
 ##### Files: 
 - mult_arbit.py
-- price_monitor.p
+- price_monitor.py
 - run_mult_arbit.py
 
 ##### Status:
