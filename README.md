@@ -48,3 +48,11 @@ it barely breaks even (or goes negative) on all breakout ranges I've tested.
       
      
 _(Standard disclaimer saying this isn't investment advice and bots can lose your money real fast. No warranties, etc. etc.)_
+
+#### Install instructions as requested in an issue:
+
+There is no fancy install; you set up a local Python virtual environment as you would any other, drop the .py files into the directory, revise the parameter sections that refer to certain coins and the rules for them, and run the desired executor file (run_mult_arbit.py or run_turtle.py). You need to create an API key on your Binance account and add the key and secret where indicated near the top of the files as [API key] and [API secret]. The log text files will generate into the directory.
+
+For my developer environment I use PyCharm: https://www.jetbrains.com/pycharm/. There are many other IDEs, or you can do it on the command line as explained at https://packaging.python.org/guides/installing-using-pip-and-virtualenv/.
+
+If you're new to crypto trading I strongly recommend you acclimate with some manual trading; if you just run the bot without context knowledge you'll have a bad time.
