@@ -5,7 +5,7 @@ from requests.exceptions import ConnectionError
 from http.client import RemoteDisconnected
 from urllib3.exceptions import ProtocolError
 from http.client import HTTPException
-from Trades_simul import Trades
+from mult_arbit import Trades
 # import sys
 # import time
 from log import log_c
