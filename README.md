@@ -23,8 +23,9 @@ So if you're doing XLM on Binance examples are:
 **WARNING: This strategy is super risky. It works best when all three pairs are trading sideways or trending gently.
 The bot knows nothing about market status other than current price ratios; rapid price swings can easily leave you mid-cycle
 holding a bag you don't want.**
-   
-    
+![rockfish icon long flip](https://user-images.githubusercontent.com/43561569/52517024-0c518c00-2bfa-11e9-9cd0-e2443d7868f1.png)
+Like this strategy? Check out [Rockfish](https://github.com/Reidmcc/rockfish), which implements a similar strategy for the Stellar Decentralized Exchange.
+
 ### Breakout trend trading:
 
 ##### Files:
